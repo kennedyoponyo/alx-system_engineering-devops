@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '0 string SCHOOL School data file' > school.mgc && sudo mv school.mgc /usr/share/misc/magic
+0 string SCHOOL School data file  && sudo mv school.mgc /usr/share/misc/magic
