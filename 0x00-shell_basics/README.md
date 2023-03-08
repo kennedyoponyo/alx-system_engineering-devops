@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a readme file for the 0x00-shell_basics directory. The directory contains:
 
 0-current_working_directory: An executable file that shows the absolute path name of a working directory
@@ -23,3 +24,6 @@ And hidden files (starting with .)
 102-tree: An executable file that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 103-commas: An executable file that lists all the files and directories of the current directory, separated by commas (,).
 School.mgc: A magic file that can be used with the command file to detect School data files.
+=======
+My first readme
+>>>>>>> 0a180e16005d01596bfb1faa192ea0d9b94aa998
