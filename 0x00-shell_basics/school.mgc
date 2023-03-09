@@ -1,0 +1,2 @@
+#!/bin/bash
+0 string SCHOOL School data file  && sudo mv school.mgc /usr/share/misc/magic
